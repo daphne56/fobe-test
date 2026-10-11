@@ -315,7 +315,7 @@ ul, dl{ margin: 0; padding: 0; list-style: none; }
 
 /* Feature band: Heartland Yellow */
 .section-yellow{
-  background: var(--color-highlight);
+  background: var(#ffda00);
   color: var(--color-dark);
 }
 .section-yellow .eyebrow{ color: var(--color-dark); }
